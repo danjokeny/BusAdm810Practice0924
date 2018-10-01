@@ -1,7 +1,7 @@
 //bus adm 810 web app dev
 //danny forero
 //assignment #2 - student CommonJS module
-
+//testing GIT
 //student function with properties and methods (copied from part1 of assignment)
 function Student(inName, inGrades) {
 	this.Name = inName,
