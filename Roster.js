@@ -1,7 +1,7 @@
 //bus adm 810 web app dev
 //danny forero
 //assignment #2 - roster Array  CommonJS module
-
+//Staging changes in GIT test
 //MyRoster function array of student objects and calcGrades method
 function myRoster(){
         let foo = [];
