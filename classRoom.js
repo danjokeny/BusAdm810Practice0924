@@ -1,6 +1,7 @@
 //bus adm 810 web app dev
 //danny forero
 //assignment #2 - classRoom CommonJS module
+//testing Git3
 
 console.log('begin BusAdm810 classRoom');
 
